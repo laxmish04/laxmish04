@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Laxmish Gouda - GitHub Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Laxmish Gowda</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
